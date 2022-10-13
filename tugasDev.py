@@ -1,2 +1,3 @@
-print("Halo")
-print("Nama saya Redja dari kelas Alphazero")
+print("Halo Orbit")
+print("Belajar ML")
+print("Yes!")
